@@ -5,13 +5,13 @@
     "minVersion": 5,
     "maxVersion": null,
     "startDate": null,
-    "expireDate": "2026-10-16",
-    "title": "Welcome to 1-Click 🎉",
-    "body": "Want to get the most out of the extension? 🚀\n\nWatch our quick tutorial video to discover all features! If you enjoy using this, your support means a lot:\n\n👍 Like & Share the video\nSend a Super Thanks on YouTube to support the project\n\nThank you for being part of our community! ❤️",
-    "link": "https://youtube.com/@1-click",
+    "expireDate": null,
+    "title": "💥1-Click Smart Prompt Generator released!",
+    "body": "⚡ You are 1-click away from Pro-level prompts!\n\n✨ What you can do:\n• Generate cinematic prompts for video & image models\n• Transform prompts into 70+ styles (Pixar, Ghibli & more)\n• Specialized prompt builders for JSON & AI Influencers\n\n👇 Click here to learn how to use it!",
+    "link": "https://youtu.be/eY7_DHP7tHE?si=16VegKV9OymGyaP1&list=PLCp9VOR_lB-yH2x6p52N5ZqfzJO6F4e00",
     "btnText": "WATCH VIDEO",
     "btnIcon": "./icons/youtube.png",
-    "image": "./icons/ytpage.jpg",
+    "image": "https://i.ytimg.com/vi/eY7_DHP7tHE/hqdefault.jpg",
     "createdAt": "2026-09-17",
     "read": false
   }
