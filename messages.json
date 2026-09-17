@@ -1,13 +1,13 @@
 [
   {
-    "id": "1789639477200",
+    "id": "1789642249710",
     "priority": 5,
     "minVersion": 5,
     "maxVersion": null,
     "startDate": null,
     "expireDate": "2026-10-16",
     "title": "Welcome to 1-Click 🎉",
-    "body": "Want to get the most out of the extension? 🚀  \n\n Watch our quick tutorial video to discover all features! If you enjoy using this, your support means a lot: \n\n 👍 Like & Share the video Send a Super Thanks on YouTube to support the project \n\n Thank you for being part of our community! ❤️ ",
+    "body": "Want to get the most out of the extension? 🚀\n\nWatch our quick tutorial video to discover all features! If you enjoy using this, your support means a lot:\n\n👍 Like & Share the video\nSend a Super Thanks on YouTube to support the project\n\nThank you for being part of our community! ❤️",
     "link": "https://youtube.com/@1-click",
     "btnText": "WATCH VIDEO",
     "btnIcon": "./icons/youtube.png",
